@@ -36,6 +36,18 @@ const projects = [
         stack: ['PHP', 'JavaScript', 'CodeIgniter3'],
         sourceCode: 'https://github.com/danasaurus45/simonjap',
     },
+    {
+        name: 'Fitur Investasi Emas Aplikasi Amartha',
+        description: 'This project aims to create a ui/ux design on a new feature in amartha app. The feature is gold investment. I did this project while I was doing my internship at Skillvul.',
+        stack: ['UI/UX', 'Figma'],
+        livePreview: 'https://medium.com/p/435deed65239',
+    },
+    {
+        name: 'Learn-It',
+        description: 'Learn-It is an online learning application prototype. The prototype was designed using figma. I did this project while I was doing my internship at Skillvul.',
+        stack: ['UI/UX', 'Figma'],
+        livePreview: 'https://medium.com/p/7ab8ad6d1829',
+    }
 ]
 
 const skills = [
